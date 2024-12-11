@@ -10,7 +10,7 @@ block-beta
 columns 1
   A["LLM01: Prompt Injection"]
   B["LLM02: Insecure Output Handling"]
-  C["LLM03: Training Data Poisoning]
+  C["LLM03: Training Data Poisoning"]
   D["LLM04: Model Denial of Service"]
   E["LLM05: Supply Chain Vulnerabilities"]
   F["LLM06: Sensitive Information Disclosure"]
