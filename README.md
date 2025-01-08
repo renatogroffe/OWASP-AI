@@ -21,3 +21,18 @@ columns 1
 ```
 
 *ATENÇÃO: Maiores detalhes podem ser encontrados em: https://genai.owasp.org/llm-top-10-2023-24/*
+
+---
+
+### Treinamento/Certificação Gratuitos
+
+APIsec University:
+- [**Treinamento**](https://www.apisecuniversity.com/courses/securing-llm-nlp-apis)
+- [**Blog - Renato Groffe**](https://renatogroffe.medium.com/certifica%C3%A7%C3%A3o-gratuita-em-intelig%C3%AAncia-artificial-securing-llm-nlp-apis-bd8446c38a70)
+
+---
+
+### Serviços de IA no Azure
+
+Challenges:
+- [**Microsoft Learn Challenge | Ignite Edition**](https://learn.microsoft.com/pt-br/training/topics/event-challenges?wt.mc_id=ignite24_learnbanner_tier1_cnl&tabs=fabric)
