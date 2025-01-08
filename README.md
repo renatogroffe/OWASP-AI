@@ -20,7 +20,7 @@ columns 1
   J["LLM10: Model Theft"]
 ```
 
-*ATENÇÃO: Maiores detalhes podem ser encontrados em: https://genai.owasp.org/llm-top-10-2023-24/*
+*ATENÇÃO: Maiores detalhes podem ser encontrados em: https://genai.owasp.org/llm-top-10/*
 
 ---
 
